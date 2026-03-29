@@ -1,3 +1,10 @@
+/**
+ * File Name: Math Module
+ * Author: Tom Leung
+ * Date Created: March 2, 2026
+ * Date Last Edited: March 29, 2026
+ */
+
 import java.util.Scanner;
 public class PracticeProblem {
 
